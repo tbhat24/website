@@ -1,0 +1,26 @@
+<span id="a">wicys@illinois</span>:<span id="b">~</span><span id="c">$</span> cd WiCyS/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">wicys@illinois</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->wicys.txt<br/><br/>
+My favorite cybersecurity quote, "<span id="k">Security is not an afterthought</span>". <!-- sjkfhskjf -->
+
+Hey There! Welcome to the webpage for UIUC WiCyS<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>WiCys is a community for those interested in learning more about the field of Cybersecurity!
+Anyone is welcome to join WiCys, whether you're a novice or just interested in learning more about cybersecurity!
+
+We are the UIUC Chapter of a National Organization, Women in Cybersecurity, and are working closely with the other engineering RSOs and Departments to foster a collaborative community for exposure to cybersecurity!
+The [WiCyS National Conference](https://www.wicys.org/) occurs every spring, be sure to apply in order to attend!
+
+Join the email list to stay up to date with meetings, tech talks, and other social events that we will put on during the school year!</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+
+<p>Take a look at our <a href="https://calendar.google.com/calendar?cid=d2ljeXMuaWxsaW5vaXNAZ21haWwuY29t">Calendar</a> for more information!
+
+<br><br><br>
+
+<p> Check out some resources to learn more about cybersecurity, here: <br> <a href="https://null-byte.wonderhowto.com/">WonderHowTo</a> <br> <a href="https://www.cisecurity.org/resources/?type=white-papers">Center of Internet Security - White Papers and Research</a> and <br> <a href="https://www.cyberaces.org/">Cyberaces- Free Security Courses</a>.</p>
+
+<p> And some sources for CTF Practice, here: <br> <a href="https://overthewire.org/wargames/">OverTheWire</a> <br> <a href="https://2018game.picoctf.com/problems">PicoCTF</a> <br> <a href="https://ctf365.com/">CTF365</a> and <br> <a href="https://ctf.sigpwny.com/">SigPWNY CTFs</a> Be sure to use your UIUC email for the SigPWNY link!</p>
+
+Feel free to contact us at <!-- slightdelayhere--><!-- longlonglongcomment --><a href="wicys.illinois@gmail.com">Email</a>.
+Follow us on <a href="https://www.facebook.com/WiCyS.illinois/">Facebook</a> <!-- slightdelayhere--> <!-- longlonglongcomment --> and on <a href="https://www.instagram.com/wicys.illinois/">Instagram</a>
+for additional updates.
+
+<p>Happy Hacking!</p>
