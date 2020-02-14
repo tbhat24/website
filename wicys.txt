@@ -17,8 +17,8 @@ Join the email list to stay up to date with meetings, tech talks, and other soci
 
 <p> And some sources for CTF Practice, here: <br> <a href="https://overthewire.org/wargames/">OverTheWire</a> <br> <a href="https://2018game.picoctf.com/problems">PicoCTF</a> <br> <a href="https://ctf365.com/">CTF365</a> and <br> <a href="https://ctf.sigpwny.com/">SigPWNY CTFs</a> Be sure to use your UIUC email for the SigPWNY link!</p>
 
-Feel free to contact us at <!-- slightdelayhere--><!-- longlonglongcomment --><a href="wicys.illinois@gmail.com">Email</a>.
+Feel free to contact us at <!-- slightdelayhere--><!-- longlonglongcomment -->wicys.illinois@gmail.com
 Follow us on <a href="https://www.facebook.com/WiCyS.illinois/">Facebook</a> <!-- slightdelayhere--> <!-- longlonglongcomment --> and on <a href="https://www.instagram.com/wicys.illinois/">Instagram</a>
-for additional updates.
+for additional updates!
 
 <p>Happy Hacking!</p>
