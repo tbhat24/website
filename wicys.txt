@@ -13,8 +13,6 @@ Join the email list to stay up to date with meetings, tech talks, and other soci
 
 <p>Take a look at our <a href="https://calendar.google.com/calendar?cid=d2ljeXMuaWxsaW5vaXNAZ21haWwuY29t">Calendar</a> for more information!
 
-<br><br><br>
-
 <p> Check out some resources to learn more about cybersecurity, here: <br> <a href="https://null-byte.wonderhowto.com/">WonderHowTo</a> <br> <a href="https://www.cisecurity.org/resources/?type=white-papers">Center of Internet Security - White Papers and Research</a> and <br> <a href="https://www.cyberaces.org/">Cyberaces- Free Security Courses</a>.</p>
 
 <p> And some sources for CTF Practice, here: <br> <a href="https://overthewire.org/wargames/">OverTheWire</a> <br> <a href="https://2018game.picoctf.com/problems">PicoCTF</a> <br> <a href="https://ctf365.com/">CTF365</a> and <br> <a href="https://ctf.sigpwny.com/">SigPWNY CTFs</a> Be sure to use your UIUC email for the SigPWNY link!</p>
