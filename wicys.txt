@@ -7,7 +7,7 @@ Hey There! Welcome to the webpage for UIUC WiCyS<!-- laglaglaglaglaglaglaglaglag
 Anyone is welcome to join WiCys, whether you're a novice or just interested in learning more about cybersecurity!
 
 We are the UIUC Chapter of a National Organization, Women in Cybersecurity, and are working closely with the other engineering RSOs and Departments to foster a collaborative community for exposure to cybersecurity!
-The [WiCyS National Conference](https://www.wicys.org/) occurs every spring, be sure to apply in order to attend!
+The <a href="https://www.wicys.org/">WiCyS National Conference</a> occurs every spring, be sure to apply in order to attend!
 
 Join the email list to stay up to date with meetings, tech talks, and other social events that we will put on during the school year!</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
